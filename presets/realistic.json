@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v20.safetensors",
+    "default_model": "epicrealismXL_v8Kiss.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
