@@ -11,11 +11,11 @@
         [
             true,
             "RealDownblouse4.safetensors",
-            0.2
+            0.0
         ],
         [
             true,
-            "breastsizeslideroffset",
+            "Breast_Slider",
             1.0
         ],
         [
@@ -48,7 +48,7 @@
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
         "RealDownblouse4.safetensors": "https://civitai.com/api/download/models/245073?type=Model&format=SafeTensor",
-        "breastsizeslideroffset.safetensors": "https://civitai.com/api/download/models/146600?type=Model&format=SafeTensor"
+        "Breast_Slider.safetensors": "https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor"
 
 
 
