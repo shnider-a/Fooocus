@@ -46,7 +46,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
-        "RealDownblouse4.safetensors": "https://huggingface.co/lraza8632/LoRAs/resolve/main/RealDownblouse4.safetensors",
+        "RealDownblouse.safetensors": "https://huggingface.co/lraza8632/LoRAs/resolve/main/RealDownblouse4.safetensors",
         "Breast Slider - Pony_alpha1.0_rank4_noxattn_last.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/Breast%20Slider%20-%20Pony_alpha1.0_rank4_noxattn_last.safetensors"
 
 
