@@ -42,9 +42,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "epicrealismXL_v8Kiss.safetensors": "https://civitai.com/api/download/models/646523?type=Model&format=SafeTensor&size=pruned&fp=fp16",
-        "Juggernaut-X-v10.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true",
-        "Juggernaut-XI-v11.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-v11/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors?download=true"
-
+        "Juggernaut-X-v10.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true"
 
     },
     "embeddings_downloads": {},
