@@ -1,5 +1,5 @@
 {
-    "default_model": "epicrealismXL_v8Kiss.safetensors",
+    "default_model": "Juggernaut.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -29,11 +29,7 @@
             1.0
         ]
     ],
-<<<<<<< HEAD
     "default_cfg_scale": 3,
-=======
-    "default_cfg_scale": 1.5,
->>>>>>> 377967230de449e17cff97b53b67b270d6f42401
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_sde",
     "default_scheduler": "karras",
