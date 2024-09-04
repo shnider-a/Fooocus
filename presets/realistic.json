@@ -1,5 +1,5 @@
 {
-    "default_model": "Juggernaut.safetensors",
+    "default_model": "Juggernaut-X-v10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,9 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Juggernaut-X-v10.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true"
+        "Juggernaut-X-v10.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true",
+        "STOIQONewrealityFLUXSD_XL40.safetensors": "https://civitai.com/api/download/models/479474?type=Model&format=SafeTensor&size=full&fp=fp16"
+
 
     },
     "embeddings_downloads": {},
