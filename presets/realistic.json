@@ -42,7 +42,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "Juggernaut-X-v10.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors?download=true",
-        "STOIQONewrealityFLUXSD_XL40.safetensors": "https://civitai.com/api/download/models/479474?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "STOIQONewrealityFLUXSD_XL40.safetensors": "https://civitai.com/api/download/models/690310?type=Model&format=SafeTensor&size=full&fp=fp16"
 
 
     },
