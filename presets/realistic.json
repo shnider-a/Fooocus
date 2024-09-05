@@ -39,7 +39,7 @@
     "default_styles": [
     ],
     "default_aspect_ratio": "1024*1024",
-    "default_overwrite_step": 8,
+    "default_overwrite_step": 7,
     "checkpoint_downloads": {
         "dreamshaperXL_v21TurboDPMSDE.safetensors": "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16"
 
