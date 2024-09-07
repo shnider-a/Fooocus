@@ -5,8 +5,8 @@
     "default_loras": [
         [
             true,
-            "None",
-            0.25
+            "Breast Slider - Pony_alpha1.0_rank4_noxattn_last.safetensors",
+            1.9
         ],
         [
             true,
@@ -50,7 +50,6 @@
         "PerfectEyesXL.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/PerfectEyesXL.safetensors",
         "Breast Slider - Pony_alpha1.0_rank4_noxattn_last.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/Breast%20Slider%20-%20Pony_alpha1.0_rank4_noxattn_last.safetensors",
 		"Perfect Hands v2.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/Perfect%20Hands%20v2.safetensors"
-
 
 
     },
