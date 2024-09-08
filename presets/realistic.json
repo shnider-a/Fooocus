@@ -49,7 +49,9 @@
     "lora_downloads": {
         "PerfectEyesXL.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/PerfectEyesXL.safetensors",
         "Breast Slider - Pony_alpha1.0_rank4_noxattn_last.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/Breast%20Slider%20-%20Pony_alpha1.0_rank4_noxattn_last.safetensors",
-		"detailed_hands-000002.safetensors": "https://civitai.com/api/download/models/294259?type=Model&format=SafeTensor"
+		"detailed_hands-000002.safetensors": "https://civitai.com/api/download/models/294259?type=Model&format=SafeTensor",
+		"detailed.safetensors": "https://civitai.com/api/download/models/469308?type=Model&format=SafeTensor",
+		"perfection style.safetensors": "https://civitai.com/api/download/models/458257?type=Model&format=SafeTensor"
 
 
     },
