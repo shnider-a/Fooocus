@@ -35,7 +35,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt_negative": "makeup",
     "default_styles": [
     ],
     "default_aspect_ratio": "1024*1024",
@@ -47,10 +47,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "PerfectEyesXL.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/PerfectEyesXL.safetensors",
-        "Breast Slider - Pony_alpha1.0_rank4_noxattn_last.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/Breast%20Slider%20-%20Pony_alpha1.0_rank4_noxattn_last.safetensors",
-		"detailed_hands-000002.safetensors": "https://civitai.com/api/download/models/294259?type=Model&format=SafeTensor"
-
+        "Breast Slider - Pony_alpha1.0_rank4_noxattn_last.safetensors": "https://huggingface.co/bad-tomich1/xl_loras_and_checkpoint/resolve/main/models/loras/Breast%20Slider%20-%20Pony_alpha1.0_rank4_noxattn_last.safetensors"
     },
     "previous_default_models": [""]
 }
